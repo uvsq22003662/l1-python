@@ -11,4 +11,3 @@ canvas.grid(row = 0, column = 1)
 canvas.create_line(0, 0, 500, 500, fill = "yellow")
 
 racine.mainloop()
-
