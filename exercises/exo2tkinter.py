@@ -24,7 +24,7 @@ mon_canvas = tk.Canvas(racine, background = "black", width= CANVAS_WIDTH, height
 
 bouton_cercle.grid(row= 1, column=0)
 bouton_carre.grid(row= 2, column=0)
-bouton_croix.grid(row= 3, column=0)
+bouton_croix.grid(row= 3, column=2)
 bouton_couleur.grid(row= 0, column = 1)
 mon_canvas.grid(row=1, column=1, rowspan= 3)
 
